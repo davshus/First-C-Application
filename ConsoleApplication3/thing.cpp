@@ -9,7 +9,7 @@ int main() {
 	for (int i = 0; i <= j; i++) {
 		cout << "The sqrt of " << i << " is " << sqrt(i) << ". Original # = " << j << "." << endl;
 	}
-	cout << "All done! :)";
+	cout << "All done! :)" << endl;
 	cout << "Ok just press anything and then enter to exit thx" << endl;
 	system("pause");
 	return 0;
